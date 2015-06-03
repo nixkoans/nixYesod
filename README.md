@@ -1,2 +1,3 @@
-# nix-yesod
-my nix environment for building yesod web components
+# nixYesod
+
+Nix environment for building yesod web components.
